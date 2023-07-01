@@ -1,0 +1,13 @@
+com.stego.steganography.app-constraint-layout-1.1.0-0 C:\Users\Devansh\.gradle\caches\transforms-3\4ef33ae6f85a60be4002946149923a59\transformed\constraint-layout-1.1.0\res
+com.stego.steganography.app-support-compat-26.1.0-1 C:\Users\Devansh\.gradle\caches\transforms-3\a01404d236d72d166413437863cf9249\transformed\support-compat-26.1.0\res
+com.stego.steganography.app-support-media-compat-26.1.0-2 C:\Users\Devansh\.gradle\caches\transforms-3\a2a032a7a3de7780bde5ddce018f0722\transformed\support-media-compat-26.1.0\res
+com.stego.steganography.app-appcompat-v7-26.1.0-3 C:\Users\Devansh\.gradle\caches\transforms-3\fd71e33ae6edb161c3a7e881b97fe6e6\transformed\appcompat-v7-26.1.0\res
+com.stego.steganography.app-packaged_res-4 D:\project\Image-Steganography\ImageSteganographyLibrary\build\intermediates\packaged_res\debug
+com.stego.steganography.app-pngs-5 D:\project\Image-Steganography\app\build\generated\res\pngs\debug
+com.stego.steganography.app-resValues-6 D:\project\Image-Steganography\app\build\generated\res\resValues\debug
+com.stego.steganography.app-rs-7 D:\project\Image-Steganography\app\build\generated\res\rs\debug
+com.stego.steganography.app-mergeDebugResources-8 D:\project\Image-Steganography\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.stego.steganography.app-mergeDebugResources-9 D:\project\Image-Steganography\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.stego.steganography.app-merged_res-10 D:\project\Image-Steganography\app\build\intermediates\merged_res\debug
+com.stego.steganography.app-debug-11 D:\project\Image-Steganography\app\src\debug\res
+com.stego.steganography.app-main-12 D:\project\Image-Steganography\app\src\main\res
